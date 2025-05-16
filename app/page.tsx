@@ -6,6 +6,7 @@ export default function Home() {
         <ul>
           <li><a href="/about">About experiment</a></li>
           <li><a href="/user/2">SSR&apos;d User 2 page</a></li>
+          <li><a href="/benefits">Benefits</a></li>
         </ul>
       </section>
     </main>
